@@ -1,7 +1,7 @@
 # RadixTransactions
 
-One click creation of a CSV file containing all Radix Transactions to/from a given wallet-id.
-Plain wallet ID is sufficient, no secure information is required.
+One click creation of a CSV file containing all Radix Transactions to/from a given wallet-id.</br>
+Plain wallet ID is sufficient, no secure information is required.</br>
 
 Additional modules to install:
 
